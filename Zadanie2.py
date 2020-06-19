@@ -1,3 +1,11 @@
+"""
+In this assignment we were to write a programme that would greet upon defining a language, eg.:
+input: it
+output: ciao!
+it was supposed to have "at least 4 languages", 
+so i used the opportunity to actually learn something and tried to automatise some pipinstall commands.
+"""
+
 powitania = {"kl":"nuqneH!","pl":"witaj!","en":"welcome!","it":"ciao!"} #tworzę słownik z czterema podstawowymi językami
 yes = ["Yes","Y","y","yes"]
 
