@@ -1,3 +1,8 @@
+"""
+in this assignment we were to write an animated virus simulation in turtle.
+I would just like to clarify that I personally would never write such programmes in turtle nor would I simplify the physics of solid object movement 
+to such algorythms, but such were the instructions of the course, so I had to follow them
+"""
 from turtle import *
 import random
 import math
